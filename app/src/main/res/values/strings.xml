@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVICounter</string>
+    <string name="counter_label">Number of click</string>
+    <string name="fab_content_description">Increment the count by one</string>
+</resources>
